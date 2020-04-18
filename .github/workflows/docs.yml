@@ -29,16 +29,16 @@ jobs:
     needs: build
     runs-on: ubuntu-latest # Required by 'JamesIves/github-pages-deploy-action'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-
       # Download the generated documentation
       - name: Download site artifact
         uses: actions/download-artifact@v1
         with:
           name: docs
+          
+      - name: Change Directory
+        run: |
+          cd docs
+          git init
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3

@@ -15,15 +15,14 @@ jobs:
         run: choco install -y docfx
 
       - name: Build
-        run: |
-          docfx docfx/docfx.json
+        run: docfx docfx/docfx.json
 
       # Upload the generated documentation
       - name: Upload site artifact
         uses: actions/upload-artifact@v1
         with:
           name: docs
-          path: docs # Must equals the 'build.dest' value on your docfx.json
+          path: ../docs # Must equals the 'build.dest' value on your docfx.json
 
   # Deploy the generated documentation to the gh-pages branch
   deploy:

@@ -9,4 +9,5 @@
     
      steps:
        - checkout
-       - run: dotnet build
+       - run: choco install docfx -y
+       - run: docfx docfx\docfx.json

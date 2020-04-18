@@ -14,4 +14,4 @@
        - checkout
        - run: choco install docfx -y
        - run: docfx docfx\docfx.json
-       - run: git push --force origin gh-pages
+       - run: git push --force origin HEAD:gh-pages

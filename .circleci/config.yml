@@ -27,7 +27,7 @@ jobs:
       - run: cd docs
       - run: dir
       - run: git init
-      - run: git remote add origin https://github.com/gamedev-iitk/tower-defense.git
+      - run: git remote add origin git@github.com:gamedev-iitk/tower-defense.git
       - run: git config user.email "mayantmukul@hotmail.com"
       - run: git config user.name "Mayant Mukul"
       - run: git add .

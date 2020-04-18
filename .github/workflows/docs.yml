@@ -31,8 +31,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        # with:
-        #   submodules: true
+        with:
+          persist-credentials: false
 
       # Download the generated documentation
       - name: Download site artifact
@@ -45,4 +45,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: .
+          FOLDER: docs

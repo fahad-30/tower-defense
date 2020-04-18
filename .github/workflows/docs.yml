@@ -16,14 +16,9 @@ jobs:
 
       - name: Build
         run: docfx docfx/docfx.json
-      
-      - name: nojekyll
-        run: |
-          echo $null >> .nojekyll
-          echo $null >> ./docs/.nojekyll
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@3.4.8
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages

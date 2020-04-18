@@ -8,6 +8,10 @@
      executor: win/default     
     
      steps:
+       - add_ssh_keys:
+           fingerprints:
+             - "cd:31:d5:7f:00:da:c8:8d:ba:4b:8c:6f:1e:40:c1:66"
        - checkout
        - run: choco install docfx -y
        - run: docfx docfx\docfx.json
+       - run: git push --force origin gh-pages

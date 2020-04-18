@@ -35,10 +35,10 @@ jobs:
         with:
           name: docs
           
-      - name: Change Directory
-        run: |
-          cd docs
-          git init
+#       - name: Change Directory
+#         run: |
+#           cd docs
+#           git init
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3

@@ -5,7 +5,7 @@
 
 # Documentation
 docfx/api/
-docfx/obj/
+docfx/obj/**
 docfx/index.*
 docs/
 Assets/**/obj*

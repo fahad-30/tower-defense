@@ -22,15 +22,15 @@ variables:
 
 # run this job when you need to request a license
 # you may need to follow activation steps from documentation
-get-activation-file:
-  when: manual
-  stage: build_and_test
-  script:
-    - chmod +x ./ci/get_activation_file.sh && ./ci/get_activation_file.sh
-  artifacts:
-    paths:
-      - $UNITY_ACTIVATION_FILE
-    expire_in: 10 min # Expiring this as artifacts may contain sensitive data and should not be kept public
+# get-activation-file:
+#   when: manual
+#   stage: build_and_test
+#   script:
+#     - chmod +x ./ci/get_activation_file.sh && ./ci/get_activation_file.sh
+#   artifacts:
+#     paths:
+#       - $UNITY_ACTIVATION_FILE
+#     expire_in: 10 min # Expiring this as artifacts may contain sensitive data and should not be kept public
 
 .test: &test
   stage: build_and_test
@@ -96,11 +96,11 @@ test-editmode:
 #   variables:
 #     BUILD_TARGET: StandaloneOSXUniversal
 
-build-StandaloneWindows64:
-  <<: *build
-  image: gableroux/unity3d:2019.3.2f1-windows
-  variables:
-    BUILD_TARGET: StandaloneWindows64
+# build-StandaloneWindows64:
+#   <<: *build
+#   image: gableroux/unity3d:2019.3.2f1-windows
+#   variables:
+#     BUILD_TARGET: StandaloneWindows64
 
 # build-WebGL:
 #   <<: *build
@@ -108,13 +108,13 @@ build-StandaloneWindows64:
 #   variables:
 #     BUILD_TARGET: WebGL
 
-build-android:
-  <<: *build
-  image: gableroux/unity3d:2019.3.2f1-android
-  variables:
-    BUILD_TARGET: Android
-    BUNDLE_VERSION_CODE: $CI_PIPELINE_IID
-    BUILD_APP_BUNDLE: "false"
+# build-android:
+#   <<: *build
+#   image: gableroux/unity3d:2019.3.2f1-android
+#   variables:
+#     BUILD_TARGET: Android
+#     BUNDLE_VERSION_CODE: $CI_PIPELINE_IID
+#     BUILD_APP_BUNDLE: "false"
 
 #deploy-android:
 #  stage: deploy

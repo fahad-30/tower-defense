@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.AIController.html",
-          "hash": "60FXA52qy0iT8NGNdPhP/A=="
+          "hash": "bc9T+yMjzZVIRG6lXmLMVA=="
         }
       },
       "is_incremental": false,
@@ -40,7 +40,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.EventRegistry.html",
-          "hash": "XWdqqIzFwKBr+55ke2myJA=="
+          "hash": "ThWQB+QYx+s8LP5tseGY3A=="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.GenericMap-1.html",
-          "hash": "0gutQLWknJLsBniiqPNEFQ=="
+          "hash": "zEyNXOX5cHbsObwgAg6tZg=="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.IUISystem.html",
-          "hash": "ziL8KSLVBd00j4VzOPnuoA=="
+          "hash": "dyKoVPVa41IGDWMweHIM8g=="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.InputSystem.html",
-          "hash": "CfYoNfmwqdNJbD9HYuXKVw=="
+          "hash": "KHLnnS6iyTbkxtsoLqVxXQ=="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionary-2.html",
-          "hash": "tXvFHS9zk6SirInHC3a15A=="
+          "hash": "h3K4qXOTTdMB2bGQpZspvg=="
         }
       },
       "is_incremental": false,
@@ -100,7 +100,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionary-3.html",
-          "hash": "rxrL/YRRVXh7vrGguyftXg=="
+          "hash": "z0csWO9VKj7d1YX9WjBGBw=="
         }
       },
       "is_incremental": false,
@@ -112,7 +112,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionary.Storage-1.html",
-          "hash": "LyaQ/bn3mnht0BJfj3FE9w=="
+          "hash": "F+9q9/6RC8sxvKApqGyFDg=="
         }
       },
       "is_incremental": false,
@@ -124,7 +124,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionary.html",
-          "hash": "zQyR3D59IxQN2twmdxQGew=="
+          "hash": "718x8cFQqqLk9WTCo1x3Sg=="
         }
       },
       "is_incremental": false,
@@ -136,7 +136,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionaryBase-3.html",
-          "hash": "tZqe+IkiJ0K9aCPoGljozw=="
+          "hash": "Ycpm0mautPBtOobIZme+JA=="
         }
       },
       "is_incremental": false,
@@ -148,7 +148,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionaryPropertyDrawer.html",
-          "hash": "7ogabPX4p42cmC+u3fAphg=="
+          "hash": "niWmQeDJcqZehzUP/QHpXA=="
         }
       },
       "is_incremental": false,
@@ -160,7 +160,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.SerializableDictionaryStoragePropertyDrawer.html",
-          "hash": "qzK39UrcVuFAO799nlKJcA=="
+          "hash": "RGH6w5wKzB2YWYKrGPkdFQ=="
         }
       },
       "is_incremental": false,
@@ -172,7 +172,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TDEvent-1.html",
-          "hash": "Wusrx/nP6ipL963Y9SboZQ=="
+          "hash": "jmE97km3Fh3k3USc0bXBnw=="
         }
       },
       "is_incremental": false,
@@ -184,7 +184,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TDEvent-2.html",
-          "hash": "ETd6rAfbPwg28Eoze0D36Q=="
+          "hash": "ZVAlSc3WJ71iP8h0Ht1o/w=="
         }
       },
       "is_incremental": false,
@@ -196,7 +196,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TDEvent.html",
-          "hash": "CQPmFF5qQ7JfzHaFZNp86Q=="
+          "hash": "FTtwDou6tL85xBNCVlxDHw=="
         }
       },
       "is_incremental": false,
@@ -208,7 +208,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TestCallback.html",
-          "hash": "+dI5o49HddPtKWap35V2ag=="
+          "hash": "R89fbwkTOzlxNCFd4pO+LQ=="
         }
       },
       "is_incremental": false,
@@ -220,7 +220,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TestEventCall.html",
-          "hash": "ZIefpqDCFXQkpWA0Z9h1xQ=="
+          "hash": "W3Q1a2wiGf8RfHdJGSeIRw=="
         }
       },
       "is_incremental": false,
@@ -232,7 +232,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TowerMenuUISystem.html",
-          "hash": "3PMio93BBDSivl+MdJ80IQ=="
+          "hash": "46aUoxQkPtdCA0lvLe4uCg=="
         }
       },
       "is_incremental": false,
@@ -244,7 +244,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TowerPlacementSystem.html",
-          "hash": "VjK+Gd08HKDccnTAA+sSLg=="
+          "hash": "AUmlQdPz2G1NwcXizlCF4A=="
         }
       },
       "is_incremental": false,
@@ -256,7 +256,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.TowerPlacer.html",
-          "hash": "oVTGgk5mQnNTR+ix/44VhA=="
+          "hash": "roLDJq3BGAPzuFE1R3I3GQ=="
         }
       },
       "is_incremental": false,
@@ -268,7 +268,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.UIManager.html",
-          "hash": "G7/VIhuP4rrRTcLXsB4mfw=="
+          "hash": "3rMe+DacG6KpJE1SNYXBPw=="
         }
       },
       "is_incremental": false,
@@ -280,7 +280,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.UpgradeMenuUISystem.html",
-          "hash": "c6MqsZuiooh8cPDDxspO8w=="
+          "hash": "O/OBC6yxR502y7EGMOWKBQ=="
         }
       },
       "is_incremental": false,
@@ -292,7 +292,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Global.UpgradeTree.html",
-          "hash": "mZu+FGZ07yl/5RUgN8okIQ=="
+          "hash": "Q3KBTZLENaKFXuD8vpxnmw=="
         }
       },
       "is_incremental": false,
@@ -311,60 +311,12 @@
       "version": ""
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tests.EditModeSampleTest.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tests.EditModeSampleTest.html",
-          "hash": "qWS3ut4GMlPIxtMuTiNguA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tests.PlayerTests.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tests.PlayerTests.html",
-          "hash": "K6noNQ0fHwWJVxpBdL3+1A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tests.TowerUIMenuTests.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tests.TowerUIMenuTests.html",
-          "hash": "FsaPWy0LL5fr+CqeklqF3g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Tests.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Tests.html",
-          "hash": "o+cSoTIuWtSBCaddULkflg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "94Y7Aa5vn/tzOX4oCrt4Hg=="
+          "hash": "sj2pWUrhbsanbZvF72CZrg=="
         }
       },
       "is_incremental": false,
@@ -376,7 +328,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "sxASilJTfZJ+dL2W15BeaQ=="
+          "hash": "blBvUbfw5Ik7ZWFHfGXz9g=="
         }
       },
       "is_incremental": false,
@@ -388,19 +340,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/Events.html",
-          "hash": "khi2+JiFzWRsWEVZAQjr2A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "manual/SerializableDictionary.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/SerializableDictionary.html",
-          "hash": "Uu0jBC3C+WO9Rrt/CqSa8A=="
+          "hash": "Fr4QCoBCpU7Ptf+loKFeVA=="
         }
       },
       "is_incremental": false,
@@ -412,7 +352,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/toc.html",
-          "hash": "1PTyt7IWouLsvJnGg52S7g=="
+          "hash": "b9PnySZ2HofYbvWwbJ3n4Q=="
         }
       },
       "is_incremental": false,
@@ -441,17 +381,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "resources/logo.png",
-      "output": {
-        "resource": {
-          "relative_path": "resources/logo.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
@@ -467,23 +396,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 2
+          "total_file_count": 2,
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 28,
-          "skipped_file_count": 28
+          "total_file_count": 24,
+          "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

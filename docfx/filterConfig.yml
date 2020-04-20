@@ -5,9 +5,6 @@ apiRules:
 - include:
     uidRegex: ^Global
     type: Namespace
-- include:
-    uidRegex: ^Tests
-    type: Namespace
 - exclude:
     uidRegex: .*
     type: Namespace

@@ -14,7 +14,6 @@ query = {
 'token':'03341061d27ae05bb27b3e1c82beffb7b1472bd580c9b0631401773f2f007c80'
 }
 
-# headers ={ "Accept": "application/json"}
 
 response = requests.request(
    "POST",
@@ -22,7 +21,3 @@ response = requests.request(
    params=query
 )
 
-print(response.text)
-##'idList':'5e95c3a80d601f5535eb4259',
-# 'name':'trial4',
-# 'desc':'trial with jenkins',

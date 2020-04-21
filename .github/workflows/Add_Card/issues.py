@@ -1,5 +1,5 @@
 import requests
-url = "https://api.github.com/repos/fahad-30/Snake.py/issues"
+url = "https://api.github.com/repos/gamedev-iitk/tower-defense/issues"
 
 response = requests.request("GET",url)
 
